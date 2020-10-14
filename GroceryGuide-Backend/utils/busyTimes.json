@@ -1,0 +1,10407 @@
+{
+	"errorOnIndex": 26,
+	"allGroceryStoresBusyTimes": {
+		"ChIJCRBYda0m6IARQq1nG3y8zNE": {
+			"Su": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 29
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 46
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 65
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 81
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 91
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 96
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 98
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 100
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 96
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 81
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Mo": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 33
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 46
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 60
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 70
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 77
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 81
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 86
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 94
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 98
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 91
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Tu": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 41
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 58
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 73
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 82
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 84
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 81
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 80
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 86
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 88
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 71
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"We": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 25
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 37
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 49
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 58
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 62
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 63
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 64
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 27
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 68
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 56
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Th": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 38
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 52
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 63
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 70
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 71
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 68
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 69
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 77
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 84
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 74
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Fr": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 31
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 45
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 61
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 73
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 80
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 81
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 84
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 92
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 98
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 85
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Sa": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 24
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 39
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 55
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 71
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 83
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 88
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 88
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 85
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 80
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 66
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			]
+		},
+		"ChIJ60cc40Ek6IAR8CLk9lxlX40": {
+			"Su": [
+				{
+					"hour": 5,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 6,
+					"occupancyPercent": 12
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 22
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 35
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 47
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 56
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 64
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 79
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 93
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 100
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 95
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 87
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 77
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 62
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 43
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 25
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 10
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				}
+			],
+			"Mo": [
+				{
+					"hour": 5,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 6,
+					"occupancyPercent": 10
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 20
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 33
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 47
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 56
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 64
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 70
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 79
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 89
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 93
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 91
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 79
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 62
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 41
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 25
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 12
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				}
+			],
+			"Tu": [
+				{
+					"hour": 5,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 6,
+					"occupancyPercent": 20
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 37
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 54
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 68
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 75
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 72
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 68
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 70
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 77
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 83
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 87
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 81
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 66
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 47
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 29
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 16
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				}
+			],
+			"We": [
+				{
+					"hour": 5,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 6,
+					"occupancyPercent": 8
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 20
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 37
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 50
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 56
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 54
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 56
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 58
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 62
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 64
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 62
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 58
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 50
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 39
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 31
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 20
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				}
+			],
+			"Th": [
+				{
+					"hour": 5,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 6,
+					"occupancyPercent": 22
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 47
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 52
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 47
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 62
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 81
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 77
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 54
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 37
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 43
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 68
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 81
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 70
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 43
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 18
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 4
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				}
+			],
+			"Fr": [
+				{
+					"hour": 5,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 6,
+					"occupancyPercent": 25
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 43
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 62
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 75
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 72
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 64
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 64
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 83
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 87
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 72
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 62
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 60
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 56
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 43
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 29
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 16
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				}
+			],
+			"Sa": [
+				{
+					"hour": 5,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 6,
+					"occupancyPercent": 16
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 37
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 58
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 72
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 72
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 66
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 64
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 70
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 77
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 79
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 72
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 66
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 56
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 43
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 27
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 12
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				}
+			]
+		},
+		"ChIJYeGP3_Ek6IARcN8NuNdIk1k": {
+			"Su": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 18
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 34
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 55
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 75
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 89
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 96
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 97
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 93
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 85
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 72
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 56
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 39
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 24
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Mo": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 21
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 34
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 50
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 66
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 78
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 82
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 80
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 76
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 75
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 78
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 77
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 64
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 40
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Tu": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 30
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 44
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 53
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 59
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 72
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 85
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 85
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 75
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 72
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 75
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 71
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 57
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 37
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"We": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 15
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 27
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 40
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 55
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 66
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 72
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 71
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 65
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 57
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 25
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 55
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 52
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 40
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Th": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 19
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 33
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 50
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 67
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 80
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 84
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 80
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 72
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 66
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 66
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 65
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 56
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 36
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Fr": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 20
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 35
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 51
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 65
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 80
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 92
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 90
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 76
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 72
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 87
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 100
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 84
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 50
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Sa": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 14
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 27
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 44
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 63
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 80
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 89
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 89
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 83
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 75
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 69
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 62
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 50
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 34
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			]
+		},
+		"ChIJDwx6F-Mk6IARIrzX7MjZ0HY": {
+			"Su": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 52
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 82
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 100
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 97
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 87
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 84
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 80
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 71
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 65
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 60
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Mo": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 30
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 45
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 56
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 61
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 60
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 60
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 67
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 76
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 79
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 64
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Tu": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 32
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 42
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 50
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 56
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 57
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 56
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 56
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 58
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 60
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 52
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"We": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 27
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 35
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 41
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 47
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 50
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 49
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 52
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 60
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 60
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 49
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Th": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 35
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 49
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 60
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 64
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 61
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 60
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 61
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 65
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 65
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 58
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Fr": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 34
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 56
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 69
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 65
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 54
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 56
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 68
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 80
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 79
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 65
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Sa": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 31
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 53
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 68
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 78
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 89
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 90
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 78
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 63
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 60
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 58
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			]
+		},
+		"ChIJZxmMXO4k6IARlo_-qBA0nBQ": {
+			"Su": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 12
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 25
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 45
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 69
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 87
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 97
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 97
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 93
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 88
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 82
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 71
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 55
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 38
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Mo": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 24
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 30
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 32
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 35
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 46
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 66
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 79
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 76
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 67
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 62
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 59
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 51
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 38
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Tu": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 28
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 40
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 30
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 22
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 45
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 88
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 100
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 79
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 69
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 72
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 72
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 61
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 44
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"We": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 11
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 18
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 27
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 37
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 45
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 51
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 54
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 53
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 61
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 85
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 93
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 62
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 34
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Th": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 23
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 27
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 24
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 28
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 49
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 75
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 76
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 61
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 61
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 72
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 76
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 65
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 45
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Fr": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 18
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 25
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 35
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 44
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 54
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 64
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 72
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 77
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 77
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 74
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 65
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 54
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 39
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Sa": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 8
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 17
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 32
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 49
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 65
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 75
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 79
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 77
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 77
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 79
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 76
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 64
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 44
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			]
+		},
+		"ChIJ8SFwW_Av6IAReePnHbuewlc": {
+			"Su": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 19
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 34
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 45
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 54
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 63
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 77
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 90
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 100
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 98
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 86
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 68
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 49
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 29
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Mo": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 19
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 29
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 36
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 40
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 49
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 60
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 68
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 68
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 63
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 63
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 67
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 62
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 47
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Tu": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 42
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 49
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 47
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 47
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 57
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 73
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 78
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 72
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 63
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 62
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 60
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 55
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 42
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"We": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 4
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 13
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 26
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 44
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 59
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 63
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 59
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 47
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 44
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 50
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 63
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 68
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 55
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Th": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 16
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 36
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 57
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 70
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 75
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 75
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 68
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 62
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 65
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 80
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 93
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 86
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 62
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Fr": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 11
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 37
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 42
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 52
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 80
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 85
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 72
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 70
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 85
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 100
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 98
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 80
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 54
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Sa": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 24
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 39
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 45
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 47
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 55
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 72
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 88
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 96
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 96
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 90
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 75
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 55
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 36
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			]
+		},
+		"ChIJ5WgWn-LEwoAR52c50lb61N8": {
+			"Su": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 35
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 62
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 87
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 99
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 96
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 89
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 90
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 96
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 94
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 78
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 51
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Mo": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 20
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 44
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 65
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 70
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 64
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 66
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 80
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 92
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 88
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 76
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 73
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Tu": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 38
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 47
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 40
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 60
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 76
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 79
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 68
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 58
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 63
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 70
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 57
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"We": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 40
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 59
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 67
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 62
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 56
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 57
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 63
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 42
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 58
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 55
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 53
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Th": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 26
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 49
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 66
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 67
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 62
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 66
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 76
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 77
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 66
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 61
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 66
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Fr": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 24
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 45
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 59
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 61
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 58
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 61
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 68
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 75
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 78
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 74
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 58
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Sa": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 41
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 68
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 81
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 84
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 90
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 100
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 96
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 80
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 68
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 67
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 49
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			]
+		},
+		"ChIJHzWYASjFwoARvoUxuER5Ew8": {
+			"Su": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 13
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 30
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 53
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 74
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 85
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 87
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 90
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 98
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 100
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 85
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 67
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 53
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Mo": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 7
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 17
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 30
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 42
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 47
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 47
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 48
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 56
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 61
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 59
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 50
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 39
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Tu": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 12
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 22
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 34
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 45
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 51
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 54
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 56
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 59
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 62
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 61
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 54
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 41
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"We": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 15
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 28
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 40
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 47
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 49
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 50
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 53
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 56
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 46
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 54
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 50
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 40
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Th": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 10
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 23
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 38
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 48
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 51
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 48
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 47
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 50
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 54
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 53
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 45
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 33
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Fr": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 15
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 26
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 37
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 45
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 49
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 50
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 52
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 55
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 57
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 55
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 53
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 54
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Sa": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 15
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 33
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 55
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 73
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 82
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 85
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 88
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 94
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 94
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 87
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 73
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 56
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			]
+		},
+		"ChIJ0WQ8-0rFwoAR3awheXx6iQg": {
+			"Su": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 11
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 19
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 30
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 38
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 42
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 57
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 80
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 100
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 84
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 46
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 15
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 7
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 23
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 11
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Mo": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 11
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 30
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 50
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 61
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 53
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 38
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 23
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 19
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 26
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 38
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 34
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 23
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 11
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 3
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Tu": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 7
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 19
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 34
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 57
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 69
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 65
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 53
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 50
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 53
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 57
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 50
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 30
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 11
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 3
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"We": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 11
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 19
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 26
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 38
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 46
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 50
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 50
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 46
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 38
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 30
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 23
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 19
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 15
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 11
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Th": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 15
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 26
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 38
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 50
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 61
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 65
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 69
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 61
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 53
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 42
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 30
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 19
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 11
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 7
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Fr": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 15
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 26
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 38
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 42
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 46
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 42
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 38
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 42
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 46
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 42
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 23
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 11
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 15
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 11
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Sa": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 15
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 42
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 46
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 34
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 38
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 50
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 61
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 57
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 46
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 38
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 42
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 38
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 19
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			]
+		},
+		"ChIJsZNbE7XawoARi_RBRL90_JA": {
+			"Su": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 21
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 51
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 78
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 83
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 76
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 85
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 100
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 89
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 63
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 45
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 33
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 22
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 12
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 5
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Mo": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 5
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 17
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 40
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 61
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 66
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 63
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 61
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 61
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 55
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 43
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 29
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 18
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 9
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 3
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Tu": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 15
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 34
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 49
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 48
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 52
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 70
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 69
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 57
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 58
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 53
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 33
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 13
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 3
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 1
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"We": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 11
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 29
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 51
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 66
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 67
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 62
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 61
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 61
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 55
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 40
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 21
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 9
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 2
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 1
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Th": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 14
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 32
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 53
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 67
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 67
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 60
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 55
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 52
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 48
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 40
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 28
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 16
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 8
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 3
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Fr": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 10
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 30
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 57
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 78
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 81
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 69
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 59
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 59
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 58
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 48
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 31
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 21
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 12
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 1
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Sa": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 14
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 38
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 67
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 87
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 87
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 83
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 83
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 76
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 57
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 38
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 27
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 17
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 7
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 1
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			]
+		},
+		"ChIJ6yrjJP3EwoARKrV0VIfXJ2k": {
+			"Su": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 17
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 33
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 43
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 48
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 67
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 94
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 100
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 82
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 74
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 74
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 54
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 23
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Mo": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 13
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 23
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 35
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 45
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 53
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 58
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 68
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 84
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 98
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 90
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 62
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 31
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Tu": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 11
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 26
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 45
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 56
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 57
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 55
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 62
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 79
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 88
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 77
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 50
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 25
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"We": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 13
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 32
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 54
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 65
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 58
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 49
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 56
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 76
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 67
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 67
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 37
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 14
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Th": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 12
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 26
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 37
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 52
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 62
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 58
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 58
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 72
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 82
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 76
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 55
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 31
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Fr": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 14
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 30
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 39
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 41
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 43
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 47
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 48
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 50
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 58
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 61
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 50
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 29
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Sa": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 11
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 23
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 35
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 47
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 56
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 64
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 74
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 84
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 84
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 69
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 45
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 23
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			]
+		},
+		"ChIJPwdVnbXawoAR8cC89oZiFKo": {
+			"Su": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 17
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 36
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 61
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 82
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 94
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 97
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 98
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 94
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 85
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 70
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 55
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 41
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Mo": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 17
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 31
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 46
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 58
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 64
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 62
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 58
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 56
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 57
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 57
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 51
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 38
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Tu": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 15
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 28
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 43
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 56
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 63
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 64
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 62
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 61
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 63
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 61
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 53
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 39
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"We": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 16
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 27
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 41
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 53
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 60
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 61
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 60
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 59
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 33
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 58
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 51
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 39
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Th": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 17
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 27
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 40
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 50
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 57
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 58
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 56
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 52
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 51
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 50
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 45
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 35
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Fr": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 22
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 34
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 47
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 58
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 65
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 67
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 64
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 61
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 61
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 62
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 58
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 46
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Sa": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 19
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 40
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 66
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 87
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 98
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 100
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 98
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 94
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 85
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 71
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 57
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 45
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			]
+		},
+		"ChIJY1M33inFwoARHf4CMO9Gflk": {
+			"Su": [
+				{
+					"hour": 5,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 6,
+					"occupancyPercent": 7
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 17
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 33
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 53
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 70
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 81
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 87
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 91
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 95
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 98
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 98
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 90
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 75
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 56
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 38
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 23
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				}
+			],
+			"Mo": [
+				{
+					"hour": 5,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 6,
+					"occupancyPercent": 12
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 20
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 31
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 43
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 56
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 68
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 76
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 80
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 82
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 85
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 93
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 100
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 96
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 77
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 49
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 23
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				}
+			],
+			"Tu": [
+				{
+					"hour": 5,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 6,
+					"occupancyPercent": 18
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 29
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 41
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 52
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 62
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 68
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 72
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 76
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 83
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 90
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 94
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 95
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 89
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 72
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 47
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 23
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				}
+			],
+			"We": [
+				{
+					"hour": 5,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 6,
+					"occupancyPercent": 13
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 22
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 30
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 38
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 44
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 47
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 50
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 53
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 59
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 69
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 50
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 80
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 73
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 58
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 39
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 22
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				}
+			],
+			"Th": [
+				{
+					"hour": 5,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 6,
+					"occupancyPercent": 15
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 24
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 34
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 45
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 56
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 64
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 69
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 70
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 70
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 70
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 75
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 81
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 81
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 68
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 46
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 24
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				}
+			],
+			"Fr": [
+				{
+					"hour": 5,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 6,
+					"occupancyPercent": 18
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 26
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 31
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 36
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 42
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 56
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 73
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 82
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 81
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 78
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 79
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 82
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 77
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 63
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 43
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 24
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				}
+			],
+			"Sa": [
+				{
+					"hour": 5,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 6,
+					"occupancyPercent": 14
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 26
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 42
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 59
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 75
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 86
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 91
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 91
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 90
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 90
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 90
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 86
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 78
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 63
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 42
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 19
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				}
+			]
+		},
+		"ChIJz03wYlLEwoAR6OVr6HB8DfA": {
+			"Su": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 6
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 28
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 57
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 71
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 67
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 67
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 77
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 84
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 85
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 83
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 78
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 66
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 47
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 27
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 12
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Mo": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 17
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 33
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 38
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 39
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 49
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 57
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 58
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 60
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 71
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 89
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 100
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 92
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 68
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 40
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 18
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Tu": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 16
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 29
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 41
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 49
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 52
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 54
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 56
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 62
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 72
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 83
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 87
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 80
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 61
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 39
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 20
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"We": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 16
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 30
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 44
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 52
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 52
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 50
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 51
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 60
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 71
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 55
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 76
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 65
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 48
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 30
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 16
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Th": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 19
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 30
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 39
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 45
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 51
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 55
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 58
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 61
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 66
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 73
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 75
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 68
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 51
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 32
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 16
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Fr": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 12
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 19
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 28
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 38
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 47
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 54
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 58
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 59
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 60
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 63
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 69
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 71
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 60
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 40
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 20
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Sa": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 16
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 27
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 38
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 48
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 56
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 62
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 67
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 70
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 72
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 75
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 74
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 67
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 52
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 33
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 17
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			]
+		},
+		"ChIJR90psz_FwoARk0VUi6AD7xg": {
+			"Su": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 38
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 55
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 72
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 72
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 77
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 88
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 100
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 88
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 66
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 50
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 27
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 11
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Mo": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 11
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 38
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 33
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 22
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 72
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 83
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 38
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 44
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 66
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 72
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 50
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 27
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Tu": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 27
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 44
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 50
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 38
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 44
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 66
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 72
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 66
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 77
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 66
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 27
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 5
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"We": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 27
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 44
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 55
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 55
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 50
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 55
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 66
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 72
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 61
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 44
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 27
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 16
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Th": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 22
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 38
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 55
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 61
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 55
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 50
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 50
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 38
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 44
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 72
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 55
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 16
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Fr": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 33
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 55
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 55
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 50
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 55
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 77
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 83
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 66
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 66
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 72
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 44
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 16
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Sa": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 33
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 50
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 55
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 72
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 88
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 94
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 72
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 55
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 55
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 50
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 33
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 16
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			]
+		},
+		"ChIJKYfVRT7FwoARvmqW3w-RUUw": {
+			"Su": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 18
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 43
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 54
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 89
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 100
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 86
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 100
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 92
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 53
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 18
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Mo": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 8
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 15
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 18
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 19
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 19
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 20
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 21
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 18
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 12
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 7
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Tu": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 11
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 20
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 14
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 12
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 16
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 20
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 21
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 19
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 15
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 10
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"We": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 8
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 22
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 25
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 17
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 20
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 30
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 33
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 28
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 17
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 8
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Th": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 7
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 13
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 9
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 18
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 27
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 28
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 20
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 11
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 10
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 11
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Fr": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 1
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 15
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 36
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 19
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 21
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 23
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 19
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 19
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 20
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 8
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Sa": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 16
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 28
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 33
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 37
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 46
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 47
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 36
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 27
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 25
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 13
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			]
+		},
+		"ChIJvZDqyCfFwoARTRp4qosfGcM": {
+			"Su": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 9
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 17
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 30
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 49
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 70
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 89
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 100
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 98
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 88
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 80
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 78
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 76
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 61
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Mo": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 6
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 14
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 25
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 38
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 49
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 56
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 57
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 55
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 56
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 62
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 69
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 67
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 53
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Tu": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 10
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 15
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 21
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 28
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 35
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 42
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 48
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 51
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 53
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 53
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 55
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 59
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 53
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"We": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 16
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 24
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 32
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 38
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 42
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 42
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 43
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 45
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 52
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 41
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 67
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 65
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 54
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Th": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 13
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 20
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 28
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 36
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 42
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 45
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 44
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 42
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 41
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 45
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 52
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 56
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 49
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Fr": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 14
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 22
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 31
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 40
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 49
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 55
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 57
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 55
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 55
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 58
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 63
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 63
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 55
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Sa": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 10
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 19
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 32
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 45
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 58
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 68
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 74
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 77
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 77
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 75
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 70
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 63
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 52
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			]
+		},
+		"ChIJv-SE0ybFwoARRhSByRGXTJs": {
+			"Su": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 1
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 1
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 20
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 43
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 50
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 52
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 60
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 63
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 52
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 40
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 36
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 36
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 25
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 9
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Mo": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 7
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 12
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 10
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 9
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 18
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 41
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 65
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 80
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 78
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 74
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 72
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 70
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 60
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 40
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 20
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 5
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Tu": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 1
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 3
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 12
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 23
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 40
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 56
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 72
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 83
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 89
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 87
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 78
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 63
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 47
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 30
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 16
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 7
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"We": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 12
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 5
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 14
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 30
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 50
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 69
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 81
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 83
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 74
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 60
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 50
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 50
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 54
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 49
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 32
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 12
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Th": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 7
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 9
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 1
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 5
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 27
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 61
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 92
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 100
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 87
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 69
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 60
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 56
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 49
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 38
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 25
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 12
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Fr": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 7
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 9
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 10
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 23
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 43
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 60
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 65
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 61
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 60
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 63
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 69
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 70
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 65
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 56
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 41
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 27
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 14
+				}
+			],
+			"Sa": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 1
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 5
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 14
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 27
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 40
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 49
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 54
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 58
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 61
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 65
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 67
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 63
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 54
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 41
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 27
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 14
+				}
+			]
+		},
+		"ChIJndHDDgvQwoARcKsxteRuGX8": {
+			"Su": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 15
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 35
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 54
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 61
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 65
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 80
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 96
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 100
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 88
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 73
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 57
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 41
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Mo": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 12
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 24
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 38
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 51
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 56
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 54
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 52
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 53
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 55
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 54
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 47
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 34
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Tu": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 18
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 32
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 45
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 50
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 51
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 52
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 56
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 58
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 56
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 48
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 36
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 25
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"We": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 12
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 26
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 40
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 50
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 52
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 52
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 54
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 57
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 42
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 52
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 42
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 30
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Th": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 12
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 23
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 34
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 39
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 39
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 40
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 44
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 49
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 49
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 43
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 37
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 33
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Fr": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 15
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 30
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 48
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 61
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 62
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 54
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 50
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 57
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 68
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 64
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 49
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 42
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Sa": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 16
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 42
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 61
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 59
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 59
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 75
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 90
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 92
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 85
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 75
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 62
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 46
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			]
+		},
+		"ChIJwQewGVTFwoARJOGO-ZckxNg": [],
+		"ChIJo15nmFDFwoAREtkwcHAqPd4": {
+			"Su": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 16
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 36
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 61
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 77
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 78
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 76
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 84
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 93
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 89
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 74
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 58
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 44
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 28
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Mo": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 18
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 43
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 75
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 94
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 90
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 80
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 80
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 81
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 73
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 61
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 48
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 30
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 13
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Tu": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 17
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 46
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 82
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 98
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 87
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 72
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 70
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 75
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 75
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 64
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 47
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 29
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 15
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"We": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 18
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 37
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 60
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 77
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 81
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 77
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 74
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 75
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 40
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 64
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 47
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 30
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 16
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Th": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 26
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 55
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 81
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 83
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 65
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 53
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 58
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 64
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 60
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 51
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 47
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 41
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 27
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Fr": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 22
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 50
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 83
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 100
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 89
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 71
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 69
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 74
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 69
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 58
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 47
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 33
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 17
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			],
+			"Sa": [
+				{
+					"hour": 6,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 7,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 8,
+					"occupancyPercent": 25
+				},
+				{
+					"hour": 9,
+					"occupancyPercent": 51
+				},
+				{
+					"hour": 10,
+					"occupancyPercent": 78
+				},
+				{
+					"hour": 11,
+					"occupancyPercent": 95
+				},
+				{
+					"hour": 12,
+					"occupancyPercent": 97
+				},
+				{
+					"hour": 13,
+					"occupancyPercent": 94
+				},
+				{
+					"hour": 14,
+					"occupancyPercent": 94
+				},
+				{
+					"hour": 15,
+					"occupancyPercent": 97
+				},
+				{
+					"hour": 16,
+					"occupancyPercent": 94
+				},
+				{
+					"hour": 17,
+					"occupancyPercent": 80
+				},
+				{
+					"hour": 18,
+					"occupancyPercent": 57
+				},
+				{
+					"hour": 19,
+					"occupancyPercent": 34
+				},
+				{
+					"hour": 20,
+					"occupancyPercent": 17
+				},
+				{
+					"hour": 21,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 22,
+					"occupancyPercent": 0
+				},
+				{
+					"hour": 23,
+					"occupancyPercent": 0
+				}
+			]
+		},
+		"ChIJSxDPoLXawoAR6WK2ClFucxU": []
+	}
+}

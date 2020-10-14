@@ -1,0 +1,35 @@
+{
+  "name": "hack_for_hope_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thejerrywang/hack_for_hope_backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thejerrywang/hack_for_hope_backend/issues"
+  },
+  "homepage": "https://github.com/thejerrywang/hack_for_hope_backend#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "body-parser": "^1.19.0",
+    "cheerio": "^1.0.0-rc.3",
+    "cors": "^2.8.5",
+    "dayjs": "^1.8.24",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "haversine-distance": "^1.2.1",
+    "mongoose": "^5.9.7",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.3",
+    "write-json-file": "^4.3.0"
+  }
+}
